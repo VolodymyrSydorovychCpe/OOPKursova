@@ -1,0 +1,11 @@
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.exe
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.deps.json
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.runtimeconfig.json
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.runtimeconfig.dev.json
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.dll
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\bin\Debug\netcoreapp3.0\MobileOperatorSoft.pdb
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\obj\Debug\netcoreapp3.0\MobileOperatorSoft.csprojAssemblyReference.cache
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\obj\Debug\netcoreapp3.0\MobileOperatorSoft.AssemblyInfoInputs.cache
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\obj\Debug\netcoreapp3.0\MobileOperatorSoft.AssemblyInfo.cs
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\obj\Debug\netcoreapp3.0\MobileOperatorSoft.dll
+D:\NURE\Проектный практикум HW\Курсовой\MobileOperatorSoft\MobileOperatorSoft\obj\Debug\netcoreapp3.0\MobileOperatorSoft.pdb
